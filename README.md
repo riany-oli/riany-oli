@@ -1,7 +1,5 @@
 ## BEM VINDO AO MEU GITHUB
 
-![Snake animation](https://github.com/riany-oli/riany-oli/blob/output/github-contribution-grid-snake.svg)
-
 <p> Olá! Meu nome é Riany Oliveira e atualmemte estudo Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba - Facens</a>.
 
 
