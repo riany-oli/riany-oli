@@ -1,6 +1,6 @@
 ## BEM VINDO AO MEU GITHUB
 
-<p> Olá! Meu nome é Riany Oliveira e atualmemte estudo Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba - Facens</a>.
+<p> Olá! Meu nome é Riany Oliveira e atualmente estudo Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba - Facens</a>.
 
 
 ## Estou aprendendo: 
